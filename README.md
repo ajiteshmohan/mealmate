@@ -158,8 +158,7 @@ All food items (28) and restaurants (8) are stored as static arrays in `App.jsx`
 
 ---
 
-## 👨‍💻 Author
-
+## 👨‍💻 Author: Ajitesh Mohan N
 Built with ❤️ for foodies.
 
 ---
